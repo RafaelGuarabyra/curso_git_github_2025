@@ -8,3 +8,6 @@ ls -a = mostra os arquivos ocultos (./) e (../)
 	rafae@Rafael MINGW64 ~/OneDrive
 
 mkdir = criar uma pasta
+
+cat = exibe conteúdo do arquivo
+rm = remove arquivo ou diretorio
