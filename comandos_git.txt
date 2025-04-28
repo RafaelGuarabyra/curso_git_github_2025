@@ -1,8 +1,8 @@
-git init . = cria um repo git na pasta atual
-git status = mostra o status do trabalho
-git add = adiciona arquivo a ser commitado
-git commit -m = faz o commit do que estava para ser commitado
-git log = mostra todo o histórico de commit
+git init . 		= Cria um repo git na pasta atual
+git status 		= Mostra o status do trabalho
+git add 		= Adiciona arquivo a ser commitado
+git commit -m 		= Faz o commit do que estava para ser commitado
+git log 		= Mostra todo o histórico de commit
 
 Revisão sobre o Fluxo de Trabalho do Git:
 1.	Criar o diretório do projeto
