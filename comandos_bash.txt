@@ -1,0 +1,10 @@
+Comandos Git Bash:
+cd = Change directory
+ls = lista o que tem nos diretórios
+pwd = mostra a URL/caminho absoluto que estou
+ls -a = mostra os arquivos ocultos (./) e (../)
+	cd .. = vai para a pasta mãe acima da que estou no momento. Ex.:
+	rafae@Rafael MINGW64 ~/OneDrive/Área de Trabalho
+	rafae@Rafael MINGW64 ~/OneDrive
+
+mkdir = criar uma pasta
